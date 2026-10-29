@@ -1,5 +1,5 @@
 - 👋 Hi, I’m kheta Ram
-- 👀 I’m interested in ...full stack development
+- 👀 I’m interested in ...back end development
 - 🌱 I’m currently learning at poornima university
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
